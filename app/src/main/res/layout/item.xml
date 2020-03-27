@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:descendantFocusability="blocksDescendants"
+	android:orientation="horizontal"
+	android:layout_weight="7"
+	android:padding="8dp"
+	android:background="#FFFFFF">
+
+	<LinearLayout
+		android:layout_width="0dp"
+		android:layout_height="wrap_content"
+		android:orientation="vertical"
+		android:layout_weight="7"
+		android:layout_marginTop="6dp">
+
+		<TextView
+			android:id="@+id/title"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textSize="18sp"
+			android:layout_marginBottom="5dp"
+			android:scrollHorizontally="true"
+			android:ellipsize="end"
+			android:text="This is news title"
+			android:textColor="#000000"/>
+
+		<TextView
+			android:id="@+id/sdetails"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textColor="#777777"
+			android:textSize="16sp"
+			android:maxLines="2"
+			android:minLines="2"
+			android:scrollHorizontally="true"
+			android:ellipsize="end"
+			android:text="YY/MM/AAAA"/>
+
+	</LinearLayout>
+
+</LinearLayout>
+
