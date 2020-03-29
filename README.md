@@ -3,7 +3,7 @@
 ---
 • create task
 
-• Delete and edlt task
+• Delete and edit task
 
 • set Date
 
