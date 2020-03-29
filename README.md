@@ -1,4 +1,4 @@
-## SimpleTodo
+## SimpleTodo by Louby Oscar
 
 ---
 • create task
@@ -14,5 +14,5 @@
 
 **Download app**
 
-<a href="app-release.apk">SimpleTodo.apk</a>
+<a href="https://github.com/louby-oscar/SimpleTodo/raw/master/app-release.apk">SimpleTodo.apk</a>
 
