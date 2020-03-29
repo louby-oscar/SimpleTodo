@@ -14,5 +14,5 @@
 
 **Download app**
 
-<a href="https://github.com/louby-oscar/SimpleTodo/raw/master/app-release.apk">SimpleTodo.apk</a>
+<a href="https://github.com/louby-oscar/SimpleTodo/raw/master/simpletodo.apk">SimpleTodo.apk</a>
 
